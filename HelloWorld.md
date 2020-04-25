@@ -4,5 +4,5 @@
 *Italics*  
 _Different way to do italics_  
 **Bold Face**  
-__Diffent Way to do bold Face__  
+__Different Way to do bold Face__  
 [This is a link to a RMarkdown Cheatsheet](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
