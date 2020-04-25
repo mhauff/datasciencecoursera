@@ -1,6 +1,6 @@
 ##  This is a markdown file  
 ##  Double pound is a header  
-~~Tildas are strikethroughs~~
+~~Tildas are strikethroughs~~  
 *Italics*  
 _Different way to do italics_  
 **Bold Face**  
